@@ -2,6 +2,27 @@
   box-sizing: border-box;
 }
 
+/* column sttyles*/
+.column {
+  display: flex;
+  flex-direction: column;
+  background-color: lightblue;
+  height: 800px;
+  padding: 50px;
+  margin: 15px;
+}
+
+/*nested column styles */
+.top {
+  height: 50px; 
+  background-color: blueviolet;
+  /* display:flex; */
+  /* align-items: center; */
+  /*justify-content: center; */
+
+
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -16,6 +37,17 @@ h4,
 h5,
 h6 {
   margin: 0;
+}
+
+
+.webApp1 {
+  height: 60px;
+  width: 80px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-image: url("../images/02-hero-bg.jpg");
 }
 
 p {
