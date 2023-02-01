@@ -1,8 +1,9 @@
+/*  Global Settings  */
 * {
   box-sizing: border-box;
 }
 
-/* column sttyles*/
+/* Column Styles*/
 .column {
   display: flex;
   flex-direction: column;
@@ -12,7 +13,7 @@
   margin: 15px;
 }
 
-/*nested column styles */
+/*Nested Column Styles */
 .top {
   height: 50px; 
   background-color: blueviolet;
