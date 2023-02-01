@@ -1,0 +1,25 @@
+Feedback                                                                 Portfolio Assignment 2
+
+Attempt 1 Feedback: 24 Jan at 5:21 draft 1
+
+- Cahill, Nicola   26 Jan at 14:06
+
+Thanks for submitting the assignment. You’ve got some good code here, but more work is needed to meet the challenge requirements. 
+
+Your page contains all of the required sections and your name. 
+
+It lacks nav elements that link to their corresponding page sections, clicking the project doesn't load its deployed application site, and because only a single project was included, by definition the first project image isn't larger than the (excluded) others (as required). 
+
+The site layout isn't responsive (doesn't adapt its content to mobile viewports) and it lacks a photo or avatar of you. 
+
+Your code repo has a proper file structure and detailed code comments, but its name could use improvement, its README lacks a screenshot and a deployed link, and some of its commit messages ('first draft', 'changes html' etc) could use more detail. 
+
+When making commit messages, try to briefly communicate what code has been changed and in which files (ie: ‘Added comments to style.css’). 
+
+That way, someone reading your commit messages can understand how the code has evolved without needing to look at the files themselves. 
+
+Code repos are best named after what their code content ‘is’ or ‘does’ rather than their chronology as assignments in the Bootcamp (ie ‘Professional_Portfolio’ rather than ‘Homework-2’ etc), so keep feel free to exclude the 'Module-#-Challenge' naming convention for future challenges. 
+
+Be sure to check in with your Instructional Staff about your progress and feel free to take advantage of the Tutors, Learning Assistants, and other resources available to you with the course. -CG MM
+
+- Central Grader

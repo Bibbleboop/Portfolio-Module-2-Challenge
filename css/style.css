@@ -43,14 +43,66 @@ h6 {
 .webApp1 {
   height: 6px;
   width: 8px;
-  display: flex;
+  display:flex;
   align-items: flex-end;
   margin-bottom: 20px;
   margin-top: 10px;
   background-image: url("../images/02-hero-bg.jpg");
 }
 
+.webApp2 {
+  height: 1px;
+  width: 4px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-image: url("../images/02-portfolio-1.jpg");
+}
+
+.webApp3 {
+  height: 1px;
+  width: 4px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-image: url("../images/02-portfolio-3.jpg");
+}
+
+.webApp4 {
+  height: 6px;
+  width: 8px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-image: url("../images/02-portfolio-4.jpg");
+}
+
+.webApp5 {
+  height: 6px;
+  width: 8px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-image: url("../images/02-run-buddy.jpg");
+}
+
 p {
   margin: 0;
 }
-   
+
+@media (min-width: 600px) {
+p {
+  font-size: 1.25rem;
+} 
+}
+
+@media (min-width: 800px) {
+  p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+  } 
+  }
