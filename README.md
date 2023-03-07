@@ -6,7 +6,7 @@ My portfolio on GitHub will be updated on a regular basis to showcase my skills 
 
 This portfolio has been created with CSS & HTML using some of the core skills covered in  Module 2:  flexbox, media queries, and CSS variables. 
 
-<img src="images\PortfolioSS.png">
+<img src="./images/readme ss.png">
 
 
 
